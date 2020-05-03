@@ -1,0 +1,28 @@
+{
+  "name": "readme_generator",
+  "version": "1.0.0",
+  "description": "A command-line application that dynamically generates a README.md based on the user's input.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Erin Otterstrom",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "inquirer": "^6.5.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ECOtterstrom/bootcampassign9.git"
+  },
+  "keywords": [
+    "readme",
+    "README.md"
+  ],
+  "bugs": {
+    "url": "https://github.com/ECOtterstrom/bootcampassign9/issues"
+  },
+  "homepage": "https://github.com/ECOtterstrom/bootcampassign9#readme"
+}
