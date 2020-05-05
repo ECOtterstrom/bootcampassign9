@@ -9,8 +9,10 @@
   "author": "Erin Otterstrom",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.19.2",
     "dotenv": "^8.0.0",
-    "inquirer": "^6.5.2"
+    "inquirer": "^6.5.2",
+    "util": "^0.12.3"
   },
   "devDependencies": {},
   "repository": {
